@@ -1,0 +1,1072 @@
+Searching for include files...
+Searching for files in directory /home/travis/build/OSGeo/PROJ/include
+Searching for example files...
+Searching for images...
+Searching for dot files...
+Searching for msc files...
+Searching for dia files...
+Searching for files to exclude
+Searching INPUT for files to process...
+Searching for files in directory /home/travis/build/OSGeo/PROJ/src/iso19111
+Searching for files in directory /home/travis/build/OSGeo/PROJ/include/proj
+Reading and parsing tag files
+Parsing files
+Preprocessing /home/travis/build/OSGeo/PROJ/src/iso19111/c_api.cpp...
+Parsing file /home/travis/build/OSGeo/PROJ/src/iso19111/c_api.cpp...
+Preprocessing /home/travis/build/OSGeo/PROJ/src/iso19111/common.cpp...
+Parsing file /home/travis/build/OSGeo/PROJ/src/iso19111/common.cpp...
+Preprocessing /home/travis/build/OSGeo/PROJ/src/iso19111/coordinateoperation.cpp...
+Parsing file /home/travis/build/OSGeo/PROJ/src/iso19111/coordinateoperation.cpp...
+Preprocessing /home/travis/build/OSGeo/PROJ/src/iso19111/coordinatesystem.cpp...
+Parsing file /home/travis/build/OSGeo/PROJ/src/iso19111/coordinatesystem.cpp...
+Preprocessing /home/travis/build/OSGeo/PROJ/src/iso19111/crs.cpp...
+Parsing file /home/travis/build/OSGeo/PROJ/src/iso19111/crs.cpp...
+Preprocessing /home/travis/build/OSGeo/PROJ/src/iso19111/datum.cpp...
+Parsing file /home/travis/build/OSGeo/PROJ/src/iso19111/datum.cpp...
+Preprocessing /home/travis/build/OSGeo/PROJ/src/iso19111/factory.cpp...
+Parsing file /home/travis/build/OSGeo/PROJ/src/iso19111/factory.cpp...
+Preprocessing /home/travis/build/OSGeo/PROJ/src/iso19111/internal.cpp...
+Parsing file /home/travis/build/OSGeo/PROJ/src/iso19111/internal.cpp...
+Preprocessing /home/travis/build/OSGeo/PROJ/src/iso19111/io.cpp...
+Parsing file /home/travis/build/OSGeo/PROJ/src/iso19111/io.cpp...
+Preprocessing /home/travis/build/OSGeo/PROJ/src/iso19111/metadata.cpp...
+Parsing file /home/travis/build/OSGeo/PROJ/src/iso19111/metadata.cpp...
+Preprocessing /home/travis/build/OSGeo/PROJ/src/iso19111/static.cpp...
+Parsing file /home/travis/build/OSGeo/PROJ/src/iso19111/static.cpp...
+Preprocessing /home/travis/build/OSGeo/PROJ/src/iso19111/util.cpp...
+Parsing file /home/travis/build/OSGeo/PROJ/src/iso19111/util.cpp...
+Preprocessing /home/travis/build/OSGeo/PROJ/include/proj/common.hpp...
+Parsing file /home/travis/build/OSGeo/PROJ/include/proj/common.hpp...
+Preprocessing /home/travis/build/OSGeo/PROJ/include/proj/coordinateoperation.hpp...
+Parsing file /home/travis/build/OSGeo/PROJ/include/proj/coordinateoperation.hpp...
+Preprocessing /home/travis/build/OSGeo/PROJ/include/proj/coordinatesystem.hpp...
+Parsing file /home/travis/build/OSGeo/PROJ/include/proj/coordinatesystem.hpp...
+Preprocessing /home/travis/build/OSGeo/PROJ/include/proj/crs.hpp...
+Parsing file /home/travis/build/OSGeo/PROJ/include/proj/crs.hpp...
+Preprocessing /home/travis/build/OSGeo/PROJ/include/proj/datum.hpp...
+Parsing file /home/travis/build/OSGeo/PROJ/include/proj/datum.hpp...
+Preprocessing /home/travis/build/OSGeo/PROJ/include/proj/io.hpp...
+Parsing file /home/travis/build/OSGeo/PROJ/include/proj/io.hpp...
+Preprocessing /home/travis/build/OSGeo/PROJ/include/proj/metadata.hpp...
+Parsing file /home/travis/build/OSGeo/PROJ/include/proj/metadata.hpp...
+Preprocessing /home/travis/build/OSGeo/PROJ/include/proj/util.hpp...
+Parsing file /home/travis/build/OSGeo/PROJ/include/proj/util.hpp...
+Preprocessing /home/travis/build/OSGeo/PROJ/src/proj.h...
+Parsing file /home/travis/build/OSGeo/PROJ/src/proj.h...
+Preprocessing /home/travis/build/OSGeo/PROJ/src/proj_experimental.h...
+Parsing file /home/travis/build/OSGeo/PROJ/src/proj_experimental.h...
+Preprocessing /home/travis/build/OSGeo/PROJ/src/general_doc.dox...
+Parsing file /home/travis/build/OSGeo/PROJ/src/general_doc.dox...
+Preprocessing /home/travis/build/OSGeo/PROJ/src/filemanager.cpp...
+Parsing file /home/travis/build/OSGeo/PROJ/src/filemanager.cpp...
+Preprocessing /home/travis/build/OSGeo/PROJ/src/networkfilemanager.cpp...
+Parsing file /home/travis/build/OSGeo/PROJ/src/networkfilemanager.cpp...
+Building group list...
+Building directory list...
+Building namespace list...
+Building file list...
+Building class list...
+Associating documentation with classes...
+Computing nesting relations for classes...
+Building example list...
+Searching for enumerations...
+Searching for documented typedefs...
+Searching for members imported via using declarations...
+Searching for included using directives...
+Searching for documented variables...
+Building interface member list...
+Building member list...
+Searching for friends...
+Searching for documented defines...
+Computing class inheritance relations...
+Computing class usage relations...
+Flushing cached template relations that have become invalid...
+Creating members for template instances...
+Computing class relations...
+Add enum values to enums...
+Searching for member function documentation...
+Building page list...
+Search for main page...
+Computing page relations...
+Determining the scope of groups...
+Sorting lists...
+Freeing entry tree
+Determining which enums are documented
+Computing member relations...
+Building full member lists recursively...
+Adding members to member groups.
+Computing member references...
+Inheriting documentation...
+Generating disk names...
+Adding source references...
+Adding xrefitems...
+Sorting member lists...
+Computing dependencies between directories...
+Generating citations page...
+Counting data structures...
+Resolving user defined references...
+Finding anchors and sections in the documentation...
+Transferring function references...
+Combining using relations...
+Adding members to index pages...
+Generating style sheet...
+Generating search indices...
+Generating example documentation...
+Generating file sources...
+Generating code for file include/proj/common.hpp...
+Generating code for file include/proj/coordinateoperation.hpp...
+Generating code for file include/proj/coordinatesystem.hpp...
+Generating code for file include/proj/crs.hpp...
+Generating code for file include/proj/datum.hpp...
+Generating code for file include/proj/io.hpp...
+Generating code for file include/proj/metadata.hpp...
+Generating code for file include/proj/util.hpp...
+Generating code for file src/proj.h...
+Generating code for file src/proj_experimental.h...
+Generating file documentation...
+Generating docs for file src/proj.h...
+Generating docs for file src/proj_experimental.h...
+Generating page documentation...
+Generating docs for page general_doc...
+Generating group documentation...
+Generating class documentation...
+Generating docs for compound PJ_AXIS_DESCRIPTION...
+Generating docs for compound PJ_OBJ_LIST...
+Generating docs for compound PJ_OPERATION_FACTORY_CONTEXT...
+Generating docs for compound PJ_PARAM_DESCRIPTION...
+Generating docs for compound PROJ_CRS_INFO...
+Generating docs for compound PROJ_CRS_LIST_PARAMETERS...
+Generating docs for compound PROJ_FILE_API...
+Generating docs for compound PROJ_UNIT_INFO...
+Generating namespace index...
+Generating docs for namespace osgeo
+Generating docs for namespace osgeo::proj
+Generating docs for namespace osgeo::proj::common
+Generating docs for compound osgeo::proj::common::Angle...
+Generating docs for compound osgeo::proj::common::DataEpoch...
+Generating docs for compound osgeo::proj::common::DateTime...
+Generating docs for compound osgeo::proj::common::IdentifiedObject...
+Generating docs for compound osgeo::proj::common::Length...
+Generating docs for compound osgeo::proj::common::Measure...
+Generating docs for compound osgeo::proj::common::ObjectDomain...
+Generating docs for compound osgeo::proj::common::ObjectUsage...
+Generating docs for compound osgeo::proj::common::Scale...
+Generating docs for compound osgeo::proj::common::UnitOfMeasure...
+Generating docs for namespace osgeo::proj::crs
+Generating docs for compound osgeo::proj::crs::BoundCRS...
+Generating docs for compound osgeo::proj::crs::CompoundCRS...
+Generating docs for compound osgeo::proj::crs::CRS...
+Generating docs for compound osgeo::proj::crs::DerivedCRS...
+Generating docs for compound osgeo::proj::crs::DerivedCRSTemplate...
+Generating docs for compound osgeo::proj::crs::DerivedEngineeringCRS...
+Generating docs for compound osgeo::proj::crs::DerivedGeodeticCRS...
+Generating docs for compound osgeo::proj::crs::DerivedGeographicCRS...
+Generating docs for compound osgeo::proj::crs::DerivedParametricCRS...
+Generating docs for compound osgeo::proj::crs::DerivedProjectedCRS...
+Generating docs for compound osgeo::proj::crs::DerivedTemporalCRS...
+Generating docs for compound osgeo::proj::crs::DerivedVerticalCRS...
+Generating docs for compound osgeo::proj::crs::EngineeringCRS...
+Generating docs for compound osgeo::proj::crs::GeodeticCRS...
+Generating docs for compound osgeo::proj::crs::GeographicCRS...
+Generating docs for compound osgeo::proj::crs::InvalidCompoundCRSException...
+Generating docs for compound osgeo::proj::crs::ParametricCRS...
+Generating docs for compound osgeo::proj::crs::ProjectedCRS...
+Generating docs for compound osgeo::proj::crs::SingleCRS...
+Generating docs for compound osgeo::proj::crs::TemporalCRS...
+Generating docs for compound osgeo::proj::crs::VerticalCRS...
+Generating docs for namespace osgeo::proj::cs
+Generating docs for compound osgeo::proj::cs::AxisDirection...
+Generating docs for compound osgeo::proj::cs::CartesianCS...
+Generating docs for compound osgeo::proj::cs::CoordinateSystem...
+Generating docs for compound osgeo::proj::cs::CoordinateSystemAxis...
+Generating docs for compound osgeo::proj::cs::DateTimeTemporalCS...
+Generating docs for compound osgeo::proj::cs::EllipsoidalCS...
+Generating docs for compound osgeo::proj::cs::Meridian...
+Generating docs for compound osgeo::proj::cs::OrdinalCS...
+Generating docs for compound osgeo::proj::cs::ParametricCS...
+Generating docs for compound osgeo::proj::cs::SphericalCS...
+Generating docs for compound osgeo::proj::cs::TemporalCountCS...
+Generating docs for compound osgeo::proj::cs::TemporalCS...
+Generating docs for compound osgeo::proj::cs::TemporalMeasureCS...
+Generating docs for compound osgeo::proj::cs::VerticalCS...
+Generating docs for namespace osgeo::proj::datum
+Generating docs for compound osgeo::proj::datum::Datum...
+Generating docs for compound osgeo::proj::datum::DatumEnsemble...
+Generating docs for compound osgeo::proj::datum::DynamicGeodeticReferenceFrame...
+Generating docs for compound osgeo::proj::datum::DynamicVerticalReferenceFrame...
+Generating docs for compound osgeo::proj::datum::Ellipsoid...
+Generating docs for compound osgeo::proj::datum::EngineeringDatum...
+Generating docs for compound osgeo::proj::datum::GeodeticReferenceFrame...
+Generating docs for compound osgeo::proj::datum::ParametricDatum...
+Generating docs for compound osgeo::proj::datum::PrimeMeridian...
+Generating docs for compound osgeo::proj::datum::RealizationMethod...
+Generating docs for compound osgeo::proj::datum::TemporalDatum...
+Generating docs for compound osgeo::proj::datum::VerticalReferenceFrame...
+Generating docs for namespace osgeo::proj::io
+Generating docs for compound osgeo::proj::io::AuthorityFactory...
+Generating docs for nested compound osgeo::proj::io::AuthorityFactory::CRSInfo...
+Generating docs for nested compound osgeo::proj::io::AuthorityFactory::UnitInfo...
+Generating docs for compound osgeo::proj::io::DatabaseContext...
+Generating docs for compound osgeo::proj::io::FactoryException...
+Generating docs for compound osgeo::proj::io::FormattingException...
+Generating docs for compound osgeo::proj::io::IJSONExportable...
+Generating docs for compound osgeo::proj::io::IPROJStringExportable...
+Generating docs for compound osgeo::proj::io::IWKTExportable...
+Generating docs for compound osgeo::proj::io::JSONFormatter...
+Generating docs for compound osgeo::proj::io::NoSuchAuthorityCodeException...
+Generating docs for compound osgeo::proj::io::ParsingException...
+Generating docs for compound osgeo::proj::io::PROJStringFormatter...
+Generating docs for compound osgeo::proj::io::PROJStringParser...
+Generating docs for compound osgeo::proj::io::WKTFormatter...
+Generating docs for compound osgeo::proj::io::WKTNode...
+Generating docs for compound osgeo::proj::io::WKTParser...
+Generating docs for namespace osgeo::proj::metadata
+Generating docs for compound osgeo::proj::metadata::Citation...
+Generating docs for compound osgeo::proj::metadata::Extent...
+Generating docs for compound osgeo::proj::metadata::GeographicBoundingBox...
+Generating docs for compound osgeo::proj::metadata::GeographicExtent...
+Generating docs for compound osgeo::proj::metadata::Identifier...
+Generating docs for compound osgeo::proj::metadata::PositionalAccuracy...
+Generating docs for compound osgeo::proj::metadata::TemporalExtent...
+Generating docs for compound osgeo::proj::metadata::VerticalExtent...
+Generating docs for namespace osgeo::proj::operation
+Generating docs for compound osgeo::proj::operation::ConcatenatedOperation...
+Generating docs for compound osgeo::proj::operation::Conversion...
+Generating docs for compound osgeo::proj::operation::CoordinateOperation...
+Generating docs for compound osgeo::proj::operation::CoordinateOperationContext...
+Generating docs for compound osgeo::proj::operation::CoordinateOperationFactory...
+Generating docs for compound osgeo::proj::operation::GeneralOperationParameter...
+Generating docs for compound osgeo::proj::operation::GeneralParameterValue...
+Generating docs for compound osgeo::proj::operation::GridDescription...
+Generating docs for compound osgeo::proj::operation::InvalidOperation...
+Generating docs for compound osgeo::proj::operation::OperationMethod...
+Generating docs for compound osgeo::proj::operation::OperationParameter...
+Generating docs for compound osgeo::proj::operation::OperationParameterValue...
+Generating docs for compound osgeo::proj::operation::ParameterValue...
+Generating docs for compound osgeo::proj::operation::PointMotionOperation...
+Generating docs for compound osgeo::proj::operation::SingleOperation...
+Generating docs for compound osgeo::proj::operation::Transformation...
+Generating docs for namespace osgeo::proj::util
+Generating docs for compound osgeo::proj::util::ArrayOfBaseObject...
+Generating docs for compound osgeo::proj::util::BaseObject...
+Generating docs for compound osgeo::proj::util::BaseObjectNNPtr...
+Generating docs for compound osgeo::proj::util::BoxedValue...
+Generating docs for compound osgeo::proj::util::CodeList...
+Generating docs for compound osgeo::proj::util::Exception...
+Generating docs for compound osgeo::proj::util::GenericName...
+Generating docs for compound osgeo::proj::util::IComparable...
+Generating docs for compound osgeo::proj::util::InvalidValueTypeException...
+Generating docs for compound osgeo::proj::util::LocalName...
+Generating docs for compound osgeo::proj::util::NameFactory...
+Generating docs for compound osgeo::proj::util::NameSpace...
+Generating docs for compound osgeo::proj::util::optional...
+Generating docs for compound osgeo::proj::util::PropertyMap...
+Generating docs for compound osgeo::proj::util::UnsupportedOperationException...
+Generating graph info page...
+Generating directory documentation...
+Generating dependency graph for directory include
+Generating dependency graph for directory src/iso19111
+Generating dependency graph for directory include/proj
+Generating index page...
+Generating page index...
+Generating module index...
+Generating namespace index...
+Generating namespace member index...
+Generating annotated compound index...
+Generating alphabetical compound index...
+Generating hierarchical class index...
+Generating graphical class hierarchy...
+Generating member index...
+Generating file index...
+Generating file member index...
+Generating example index...
+finalizing index lists...
+writing tag file...
+Generating XML output...
+Generating XML output for class osgeo::proj::common::Angle
+Generating XML output for class osgeo::proj::util::ArrayOfBaseObject
+Generating XML output for class osgeo::proj::io::AuthorityFactory
+Generating XML output for class osgeo::proj::cs::AxisDirection
+Generating XML output for class osgeo::proj::util::BaseObject
+Generating XML output for class osgeo::proj::util::BaseObjectNNPtr
+Generating XML output for class osgeo::proj::crs::BoundCRS
+Generating XML output for class osgeo::proj::util::BoxedValue
+Generating XML output for class osgeo::proj::cs::CartesianCS
+Generating XML output for class osgeo::proj::metadata::Citation
+Generating XML output for class osgeo::proj::util::CodeList
+Generating XML output for class osgeo::proj::crs::CompoundCRS
+Generating XML output for class osgeo::proj::operation::ConcatenatedOperation
+Generating XML output for class osgeo::proj::operation::Conversion
+Generating XML output for class osgeo::proj::operation::CoordinateOperation
+Generating XML output for class osgeo::proj::operation::CoordinateOperationContext
+Generating XML output for class osgeo::proj::operation::CoordinateOperationFactory
+Generating XML output for class osgeo::proj::cs::CoordinateSystem
+Generating XML output for class osgeo::proj::cs::CoordinateSystemAxis
+Generating XML output for class osgeo::proj::crs::CRS
+Generating XML output for class osgeo::proj::io::AuthorityFactory::CRSInfo
+Generating XML output for class osgeo::proj::io::DatabaseContext
+Generating XML output for class osgeo::proj::common::DataEpoch
+Generating XML output for class osgeo::proj::common::DateTime
+Generating XML output for class osgeo::proj::cs::DateTimeTemporalCS
+Generating XML output for class osgeo::proj::datum::Datum
+Generating XML output for class osgeo::proj::datum::DatumEnsemble
+Generating XML output for class osgeo::proj::crs::DerivedCRS
+Generating XML output for class osgeo::proj::crs::DerivedCRSTemplate
+Generating XML output for class osgeo::proj::crs::DerivedEngineeringCRS
+Generating XML output for class osgeo::proj::crs::DerivedGeodeticCRS
+Generating XML output for class osgeo::proj::crs::DerivedGeographicCRS
+Generating XML output for class osgeo::proj::crs::DerivedParametricCRS
+Generating XML output for class osgeo::proj::crs::DerivedProjectedCRS
+Generating XML output for class osgeo::proj::crs::DerivedTemporalCRS
+Generating XML output for class osgeo::proj::crs::DerivedVerticalCRS
+Generating XML output for class osgeo::proj::datum::DynamicGeodeticReferenceFrame
+Generating XML output for class osgeo::proj::datum::DynamicVerticalReferenceFrame
+Generating XML output for class osgeo::proj::datum::Ellipsoid
+Generating XML output for class osgeo::proj::cs::EllipsoidalCS
+Generating XML output for class osgeo::proj::crs::EngineeringCRS
+Generating XML output for class osgeo::proj::datum::EngineeringDatum
+Generating XML output for class osgeo::proj::util::Exception
+Generating XML output for class osgeo::proj::metadata::Extent
+Generating XML output for class osgeo::proj::io::FactoryException
+Generating XML output for class osgeo::proj::io::FormattingException
+Generating XML output for class osgeo::proj::operation::GeneralOperationParameter
+Generating XML output for class osgeo::proj::operation::GeneralParameterValue
+Generating XML output for class osgeo::proj::util::GenericName
+Generating XML output for class osgeo::proj::crs::GeodeticCRS
+Generating XML output for class osgeo::proj::datum::GeodeticReferenceFrame
+Generating XML output for class osgeo::proj::metadata::GeographicBoundingBox
+Generating XML output for class osgeo::proj::crs::GeographicCRS
+Generating XML output for class osgeo::proj::metadata::GeographicExtent
+Generating XML output for class osgeo::proj::operation::GridDescription
+Generating XML output for class osgeo::proj::util::IComparable
+Generating XML output for class osgeo::proj::common::IdentifiedObject
+Generating XML output for class osgeo::proj::metadata::Identifier
+Generating XML output for class osgeo::proj::io::IJSONExportable
+Generating XML output for class osgeo::proj::crs::InvalidCompoundCRSException
+Generating XML output for class osgeo::proj::operation::InvalidOperation
+Generating XML output for class osgeo::proj::util::InvalidValueTypeException
+Generating XML output for class osgeo::proj::io::IPROJStringExportable
+Generating XML output for class osgeo::proj::io::IWKTExportable
+Generating XML output for class osgeo::proj::io::JSONFormatter
+Generating XML output for class osgeo::proj::common::Length
+Generating XML output for class osgeo::proj::util::LocalName
+Generating XML output for class osgeo::proj::common::Measure
+Generating XML output for class osgeo::proj::cs::Meridian
+Generating XML output for class osgeo::proj::util::NameFactory
+Generating XML output for class osgeo::proj::util::NameSpace
+Generating XML output for class osgeo::proj::io::NoSuchAuthorityCodeException
+Generating XML output for class osgeo::proj::common::ObjectDomain
+Generating XML output for class osgeo::proj::common::ObjectUsage
+Generating XML output for class osgeo::proj::operation::OperationMethod
+Generating XML output for class osgeo::proj::operation::OperationParameter
+Generating XML output for class osgeo::proj::operation::OperationParameterValue
+Generating XML output for class osgeo::proj::util::optional
+Generating XML output for class osgeo::proj::cs::OrdinalCS
+Generating XML output for class osgeo::proj::operation::ParameterValue
+Generating XML output for class osgeo::proj::crs::ParametricCRS
+Generating XML output for class osgeo::proj::cs::ParametricCS
+Generating XML output for class osgeo::proj::datum::ParametricDatum
+Generating XML output for class osgeo::proj::io::ParsingException
+Generating XML output for class PJ_AXIS_DESCRIPTION
+Generating XML output for class PJ_OBJ_LIST
+Generating XML output for class PJ_OPERATION_FACTORY_CONTEXT
+Generating XML output for class PJ_PARAM_DESCRIPTION
+Generating XML output for class osgeo::proj::operation::PointMotionOperation
+Generating XML output for class osgeo::proj::metadata::PositionalAccuracy
+Generating XML output for class osgeo::proj::datum::PrimeMeridian
+Generating XML output for class PROJ_CRS_INFO
+Generating XML output for class PROJ_CRS_LIST_PARAMETERS
+Generating XML output for class PROJ_FILE_API
+Generating XML output for class PROJ_UNIT_INFO
+Generating XML output for class osgeo::proj::crs::ProjectedCRS
+Generating XML output for class osgeo::proj::io::PROJStringFormatter
+Generating XML output for class osgeo::proj::io::PROJStringParser
+Generating XML output for class osgeo::proj::util::PropertyMap
+Generating XML output for class osgeo::proj::datum::RealizationMethod
+Generating XML output for class osgeo::proj::common::Scale
+Generating XML output for class osgeo::proj::crs::SingleCRS
+Generating XML output for class osgeo::proj::operation::SingleOperation
+Generating XML output for class osgeo::proj::cs::SphericalCS
+Generating XML output for class osgeo::proj::cs::TemporalCountCS
+Generating XML output for class osgeo::proj::crs::TemporalCRS
+Generating XML output for class osgeo::proj::cs::TemporalCS
+Generating XML output for class osgeo::proj::datum::TemporalDatum
+Generating XML output for class osgeo::proj::metadata::TemporalExtent
+Generating XML output for class osgeo::proj::cs::TemporalMeasureCS
+Generating XML output for class osgeo::proj::operation::Transformation
+Generating XML output for class osgeo::proj::io::AuthorityFactory::UnitInfo
+Generating XML output for class osgeo::proj::common::UnitOfMeasure
+Generating XML output for class osgeo::proj::util::UnsupportedOperationException
+Generating XML output for class osgeo::proj::crs::VerticalCRS
+Generating XML output for class osgeo::proj::cs::VerticalCS
+Generating XML output for class osgeo::proj::metadata::VerticalExtent
+Generating XML output for class osgeo::proj::datum::VerticalReferenceFrame
+Generating XML output for class osgeo::proj::io::WKTFormatter
+Generating XML output for class osgeo::proj::io::WKTNode
+Generating XML output for class osgeo::proj::io::WKTParser
+Generating XML output for namespace NS_PROJ
+Generating XML output for namespace NS_PROJ::common
+Generating XML output for namespace NS_PROJ::crs
+Generating XML output for namespace NS_PROJ::cs
+Generating XML output for namespace NS_PROJ::datum
+Generating XML output for namespace NS_PROJ::internal
+Generating XML output for namespace NS_PROJ::io
+Generating XML output for namespace NS_PROJ::metadata
+Generating XML output for namespace NS_PROJ::operation
+Generating XML output for namespace NS_PROJ::util
+Generating XML output for namespace osgeo
+Generating XML output for namespace osgeo::proj
+Generating XML output for namespace osgeo::proj::common
+Generating XML output for namespace osgeo::proj::crs
+Generating XML output for namespace osgeo::proj::cs
+Generating XML output for namespace osgeo::proj::datum
+Generating XML output for namespace osgeo::proj::internal
+Generating XML output for namespace osgeo::proj::io
+Generating XML output for namespace osgeo::proj::io::@8
+Generating XML output for namespace osgeo::proj::metadata
+Generating XML output for namespace osgeo::proj::operation
+Generating XML output for namespace osgeo::proj::util
+Generating XML output for file common.hpp
+Generating XML output for file coordinateoperation.hpp
+Generating XML output for file coordinatesystem.hpp
+Generating XML output for file crs.hpp
+Generating XML output for file datum.hpp
+Generating XML output for file io.hpp
+Generating XML output for file metadata.hpp
+Generating XML output for file util.hpp
+Generating XML output for file filemanager.cpp
+Generating XML output for file general_doc.dox
+Generating XML output for file c_api.cpp
+Generating XML output for file common.cpp
+Generating XML output for file coordinateoperation.cpp
+Generating XML output for file coordinatesystem.cpp
+Generating XML output for file crs.cpp
+Generating XML output for file datum.cpp
+Generating XML output for file factory.cpp
+Generating XML output for file internal.cpp
+Generating XML output for file io.cpp
+Generating XML output for file metadata.cpp
+Generating XML output for file static.cpp
+Generating XML output for file util.cpp
+Generating XML output for file networkfilemanager.cpp
+Generating XML output for file proj.h
+Generating XML output for file proj_experimental.h
+Generating XML output for group iso19111_types
+Generating XML output for group iso19111_functions
+Generating XML output for group advanced_cpp_binding
+Generating XML output for page general_doc
+Generate XML output for dir /home/travis/build/OSGeo/PROJ/include/
+Generate XML output for dir /home/travis/build/OSGeo/PROJ/src/iso19111/
+Generate XML output for dir /home/travis/build/OSGeo/PROJ/include/proj/
+Generate XML output for dir /home/travis/build/OSGeo/PROJ/src/
+Running dot...
+Generating dot graphs using 3 parallel threads...
+Running dot for graph 1/408
+Running dot for graph 2/408
+Running dot for graph 3/408
+Running dot for graph 4/408
+Running dot for graph 5/408
+Running dot for graph 6/408
+Running dot for graph 7/408
+Running dot for graph 8/408
+Running dot for graph 9/408
+Running dot for graph 10/408
+Running dot for graph 11/408
+Running dot for graph 12/408
+Running dot for graph 13/408
+Running dot for graph 14/408
+Running dot for graph 15/408
+Running dot for graph 16/408
+Running dot for graph 17/408
+Running dot for graph 18/408
+Running dot for graph 19/408
+Running dot for graph 20/408
+Running dot for graph 21/408
+Running dot for graph 22/408
+Running dot for graph 23/408
+Running dot for graph 24/408
+Running dot for graph 25/408
+Running dot for graph 26/408
+Running dot for graph 27/408
+Running dot for graph 28/408
+Running dot for graph 29/408
+Running dot for graph 30/408
+Running dot for graph 31/408
+Running dot for graph 32/408
+Running dot for graph 33/408
+Running dot for graph 34/408
+Running dot for graph 35/408
+Running dot for graph 36/408
+Running dot for graph 37/408
+Running dot for graph 38/408
+Running dot for graph 39/408
+Running dot for graph 40/408
+Running dot for graph 41/408
+Running dot for graph 42/408
+Running dot for graph 43/408
+Running dot for graph 44/408
+Running dot for graph 45/408
+Running dot for graph 46/408
+Running dot for graph 47/408
+Running dot for graph 48/408
+Running dot for graph 49/408
+Running dot for graph 50/408
+Running dot for graph 51/408
+Running dot for graph 52/408
+Running dot for graph 53/408
+Running dot for graph 54/408
+Running dot for graph 55/408
+Running dot for graph 56/408
+Running dot for graph 57/408
+Running dot for graph 58/408
+Running dot for graph 59/408
+Running dot for graph 60/408
+Running dot for graph 61/408
+Running dot for graph 62/408
+Running dot for graph 63/408
+Running dot for graph 64/408
+Running dot for graph 65/408
+Running dot for graph 66/408
+Running dot for graph 67/408
+Running dot for graph 68/408
+Running dot for graph 69/408
+Running dot for graph 70/408
+Running dot for graph 71/408
+Running dot for graph 72/408
+Running dot for graph 73/408
+Running dot for graph 74/408
+Running dot for graph 75/408
+Running dot for graph 76/408
+Running dot for graph 77/408
+Running dot for graph 78/408
+Running dot for graph 79/408
+Running dot for graph 80/408
+Running dot for graph 81/408
+Running dot for graph 82/408
+Running dot for graph 83/408
+Running dot for graph 84/408
+Running dot for graph 85/408
+Running dot for graph 86/408
+Running dot for graph 87/408
+Running dot for graph 88/408
+Running dot for graph 89/408
+Running dot for graph 90/408
+Running dot for graph 91/408
+Running dot for graph 92/408
+Running dot for graph 93/408
+Running dot for graph 94/408
+Running dot for graph 95/408
+Running dot for graph 96/408
+Running dot for graph 97/408
+Running dot for graph 98/408
+Running dot for graph 99/408
+Running dot for graph 100/408
+Running dot for graph 101/408
+Running dot for graph 102/408
+Running dot for graph 103/408
+Running dot for graph 104/408
+Running dot for graph 105/408
+Running dot for graph 106/408
+Running dot for graph 107/408
+Running dot for graph 108/408
+Running dot for graph 109/408
+Running dot for graph 110/408
+Running dot for graph 111/408
+Running dot for graph 112/408
+Running dot for graph 113/408
+Running dot for graph 114/408
+Running dot for graph 115/408
+Running dot for graph 116/408
+Running dot for graph 117/408
+Running dot for graph 118/408
+Running dot for graph 119/408
+Running dot for graph 120/408
+Running dot for graph 121/408
+Running dot for graph 122/408
+Running dot for graph 123/408
+Running dot for graph 124/408
+Running dot for graph 125/408
+Running dot for graph 126/408
+Running dot for graph 127/408
+Running dot for graph 128/408
+Running dot for graph 129/408
+Running dot for graph 130/408
+Running dot for graph 131/408
+Running dot for graph 132/408
+Running dot for graph 133/408
+Running dot for graph 134/408
+Running dot for graph 135/408
+Running dot for graph 136/408
+Running dot for graph 137/408
+Running dot for graph 138/408
+Running dot for graph 139/408
+Running dot for graph 140/408
+Running dot for graph 141/408
+Running dot for graph 142/408
+Running dot for graph 143/408
+Running dot for graph 144/408
+Running dot for graph 145/408
+Running dot for graph 146/408
+Running dot for graph 147/408
+Running dot for graph 148/408
+Running dot for graph 149/408
+Running dot for graph 150/408
+Running dot for graph 151/408
+Running dot for graph 152/408
+Running dot for graph 153/408
+Running dot for graph 154/408
+Running dot for graph 155/408
+Running dot for graph 156/408
+Running dot for graph 157/408
+Running dot for graph 158/408
+Running dot for graph 159/408
+Running dot for graph 160/408
+Running dot for graph 161/408
+Running dot for graph 162/408
+Running dot for graph 163/408
+Running dot for graph 164/408
+Running dot for graph 165/408
+Running dot for graph 166/408
+Running dot for graph 167/408
+Running dot for graph 168/408
+Running dot for graph 169/408
+Running dot for graph 170/408
+Running dot for graph 171/408
+Running dot for graph 172/408
+Running dot for graph 173/408
+Running dot for graph 174/408
+Running dot for graph 175/408
+Running dot for graph 176/408
+Running dot for graph 177/408
+Running dot for graph 178/408
+Running dot for graph 179/408
+Running dot for graph 180/408
+Running dot for graph 181/408
+Running dot for graph 182/408
+Running dot for graph 183/408
+Running dot for graph 184/408
+Running dot for graph 185/408
+Running dot for graph 186/408
+Running dot for graph 187/408
+Running dot for graph 188/408
+Running dot for graph 189/408
+Running dot for graph 190/408
+Running dot for graph 191/408
+Running dot for graph 192/408
+Running dot for graph 193/408
+Running dot for graph 194/408
+Running dot for graph 195/408
+Running dot for graph 196/408
+Running dot for graph 197/408
+Running dot for graph 198/408
+Running dot for graph 199/408
+Running dot for graph 200/408
+Running dot for graph 201/408
+Running dot for graph 202/408
+Running dot for graph 203/408
+Running dot for graph 204/408
+Running dot for graph 205/408
+Running dot for graph 206/408
+Running dot for graph 207/408
+Running dot for graph 208/408
+Running dot for graph 209/408
+Running dot for graph 210/408
+Running dot for graph 211/408
+Running dot for graph 212/408
+Running dot for graph 213/408
+Running dot for graph 214/408
+Running dot for graph 215/408
+Running dot for graph 216/408
+Running dot for graph 217/408
+Running dot for graph 218/408
+Running dot for graph 219/408
+Running dot for graph 220/408
+Running dot for graph 221/408
+Running dot for graph 222/408
+Running dot for graph 223/408
+Running dot for graph 224/408
+Running dot for graph 225/408
+Running dot for graph 226/408
+Running dot for graph 227/408
+Running dot for graph 228/408
+Running dot for graph 229/408
+Running dot for graph 230/408
+Running dot for graph 231/408
+Running dot for graph 232/408
+Running dot for graph 233/408
+Running dot for graph 234/408
+Running dot for graph 235/408
+Running dot for graph 236/408
+Running dot for graph 237/408
+Running dot for graph 238/408
+Running dot for graph 239/408
+Running dot for graph 240/408
+Running dot for graph 241/408
+Running dot for graph 242/408
+Running dot for graph 243/408
+Running dot for graph 244/408
+Running dot for graph 245/408
+Running dot for graph 246/408
+Running dot for graph 247/408
+Running dot for graph 248/408
+Running dot for graph 249/408
+Running dot for graph 250/408
+Running dot for graph 251/408
+Running dot for graph 252/408
+Running dot for graph 253/408
+Running dot for graph 254/408
+Running dot for graph 255/408
+Running dot for graph 256/408
+Running dot for graph 257/408
+Running dot for graph 258/408
+Running dot for graph 259/408
+Running dot for graph 260/408
+Running dot for graph 261/408
+Running dot for graph 262/408
+Running dot for graph 263/408
+Running dot for graph 264/408
+Running dot for graph 265/408
+Running dot for graph 266/408
+Running dot for graph 267/408
+Running dot for graph 268/408
+Running dot for graph 269/408
+Running dot for graph 270/408
+Running dot for graph 271/408
+Running dot for graph 272/408
+Running dot for graph 273/408
+Running dot for graph 274/408
+Running dot for graph 275/408
+Running dot for graph 276/408
+Running dot for graph 277/408
+Running dot for graph 278/408
+Running dot for graph 279/408
+Running dot for graph 280/408
+Running dot for graph 281/408
+Running dot for graph 282/408
+Running dot for graph 283/408
+Running dot for graph 284/408
+Running dot for graph 285/408
+Running dot for graph 286/408
+Running dot for graph 287/408
+Running dot for graph 288/408
+Running dot for graph 289/408
+Running dot for graph 290/408
+Running dot for graph 291/408
+Running dot for graph 292/408
+Running dot for graph 293/408
+Running dot for graph 294/408
+Running dot for graph 295/408
+Running dot for graph 296/408
+Running dot for graph 297/408
+Running dot for graph 298/408
+Running dot for graph 299/408
+Running dot for graph 300/408
+Running dot for graph 301/408
+Running dot for graph 302/408
+Running dot for graph 303/408
+Running dot for graph 304/408
+Running dot for graph 305/408
+Running dot for graph 306/408
+Running dot for graph 307/408
+Running dot for graph 308/408
+Running dot for graph 309/408
+Running dot for graph 310/408
+Running dot for graph 311/408
+Running dot for graph 312/408
+Running dot for graph 313/408
+Running dot for graph 314/408
+Running dot for graph 315/408
+Running dot for graph 316/408
+Running dot for graph 317/408
+Running dot for graph 318/408
+Running dot for graph 319/408
+Running dot for graph 320/408
+Running dot for graph 321/408
+Running dot for graph 322/408
+Running dot for graph 323/408
+Running dot for graph 324/408
+Running dot for graph 325/408
+Running dot for graph 326/408
+Running dot for graph 327/408
+Running dot for graph 328/408
+Running dot for graph 329/408
+Running dot for graph 330/408
+Running dot for graph 331/408
+Running dot for graph 332/408
+Running dot for graph 333/408
+Running dot for graph 334/408
+Running dot for graph 335/408
+Running dot for graph 336/408
+Running dot for graph 337/408
+Running dot for graph 338/408
+Running dot for graph 339/408
+Running dot for graph 340/408
+Running dot for graph 341/408
+Running dot for graph 342/408
+Running dot for graph 343/408
+Running dot for graph 344/408
+Running dot for graph 345/408
+Running dot for graph 346/408
+Running dot for graph 347/408
+Running dot for graph 348/408
+Running dot for graph 349/408
+Running dot for graph 350/408
+Running dot for graph 351/408
+Running dot for graph 352/408
+Running dot for graph 353/408
+Running dot for graph 354/408
+Running dot for graph 355/408
+Running dot for graph 356/408
+Running dot for graph 357/408
+Running dot for graph 358/408
+Running dot for graph 359/408
+Running dot for graph 360/408
+Running dot for graph 361/408
+Running dot for graph 362/408
+Running dot for graph 363/408
+Running dot for graph 364/408
+Running dot for graph 365/408
+Running dot for graph 366/408
+Running dot for graph 367/408
+Running dot for graph 368/408
+Running dot for graph 369/408
+Running dot for graph 370/408
+Running dot for graph 371/408
+Running dot for graph 372/408
+Running dot for graph 373/408
+Running dot for graph 374/408
+Running dot for graph 375/408
+Running dot for graph 376/408
+Running dot for graph 377/408
+Running dot for graph 378/408
+Running dot for graph 379/408
+Running dot for graph 380/408
+Running dot for graph 381/408
+Running dot for graph 382/408
+Running dot for graph 383/408
+Running dot for graph 384/408
+Running dot for graph 385/408
+Running dot for graph 386/408
+Running dot for graph 387/408
+Running dot for graph 388/408
+Running dot for graph 389/408
+Running dot for graph 390/408
+Running dot for graph 391/408
+Running dot for graph 392/408
+Running dot for graph 393/408
+Running dot for graph 394/408
+Running dot for graph 395/408
+Running dot for graph 396/408
+Running dot for graph 397/408
+Running dot for graph 398/408
+Running dot for graph 399/408
+Running dot for graph 400/408
+Running dot for graph 401/408
+Running dot for graph 402/408
+Running dot for graph 403/408
+Running dot for graph 404/408
+Running dot for graph 405/408
+Running dot for graph 406/408
+Running dot for graph 407/408
+Running dot for graph 408/408
+Patching output file 1/199
+Patching output file 2/199
+Patching output file 3/199
+Patching output file 4/199
+Patching output file 5/199
+Patching output file 6/199
+Patching output file 7/199
+Patching output file 8/199
+Patching output file 9/199
+Patching output file 10/199
+Patching output file 11/199
+Patching output file 12/199
+Patching output file 13/199
+Patching output file 14/199
+Patching output file 15/199
+Patching output file 16/199
+Patching output file 17/199
+Patching output file 18/199
+Patching output file 19/199
+Patching output file 20/199
+Patching output file 21/199
+Patching output file 22/199
+Patching output file 23/199
+Patching output file 24/199
+Patching output file 25/199
+Patching output file 26/199
+Patching output file 27/199
+Patching output file 28/199
+Patching output file 29/199
+Patching output file 30/199
+Patching output file 31/199
+Patching output file 32/199
+Patching output file 33/199
+Patching output file 34/199
+Patching output file 35/199
+Patching output file 36/199
+Patching output file 37/199
+Patching output file 38/199
+Patching output file 39/199
+Patching output file 40/199
+Patching output file 41/199
+Patching output file 42/199
+Patching output file 43/199
+Patching output file 44/199
+Patching output file 45/199
+Patching output file 46/199
+Patching output file 47/199
+Patching output file 48/199
+Patching output file 49/199
+Patching output file 50/199
+Patching output file 51/199
+Patching output file 52/199
+Patching output file 53/199
+Patching output file 54/199
+Patching output file 55/199
+Patching output file 56/199
+Patching output file 57/199
+Patching output file 58/199
+Patching output file 59/199
+Patching output file 60/199
+Patching output file 61/199
+Patching output file 62/199
+Patching output file 63/199
+Patching output file 64/199
+Patching output file 65/199
+Patching output file 66/199
+Patching output file 67/199
+Patching output file 68/199
+Patching output file 69/199
+Patching output file 70/199
+Patching output file 71/199
+Patching output file 72/199
+Patching output file 73/199
+Patching output file 74/199
+Patching output file 75/199
+Patching output file 76/199
+Patching output file 77/199
+Patching output file 78/199
+Patching output file 79/199
+Patching output file 80/199
+Patching output file 81/199
+Patching output file 82/199
+Patching output file 83/199
+Patching output file 84/199
+Patching output file 85/199
+Patching output file 86/199
+Patching output file 87/199
+Patching output file 88/199
+Patching output file 89/199
+Patching output file 90/199
+Patching output file 91/199
+Patching output file 92/199
+Patching output file 93/199
+Patching output file 94/199
+Patching output file 95/199
+Patching output file 96/199
+Patching output file 97/199
+Patching output file 98/199
+Patching output file 99/199
+Patching output file 100/199
+Patching output file 101/199
+Patching output file 102/199
+Patching output file 103/199
+Patching output file 104/199
+Patching output file 105/199
+Patching output file 106/199
+Patching output file 107/199
+Patching output file 108/199
+Patching output file 109/199
+Patching output file 110/199
+Patching output file 111/199
+Patching output file 112/199
+Patching output file 113/199
+Patching output file 114/199
+Patching output file 115/199
+Patching output file 116/199
+Patching output file 117/199
+Patching output file 118/199
+Patching output file 119/199
+Patching output file 120/199
+Patching output file 121/199
+Patching output file 122/199
+Patching output file 123/199
+Patching output file 124/199
+Patching output file 125/199
+Patching output file 126/199
+Patching output file 127/199
+Patching output file 128/199
+Patching output file 129/199
+Patching output file 130/199
+Patching output file 131/199
+Patching output file 132/199
+Patching output file 133/199
+Patching output file 134/199
+Patching output file 135/199
+Patching output file 136/199
+Patching output file 137/199
+Patching output file 138/199
+Patching output file 139/199
+Patching output file 140/199
+Patching output file 141/199
+Patching output file 142/199
+Patching output file 143/199
+Patching output file 144/199
+Patching output file 145/199
+Patching output file 146/199
+Patching output file 147/199
+Patching output file 148/199
+Patching output file 149/199
+Patching output file 150/199
+Patching output file 151/199
+Patching output file 152/199
+Patching output file 153/199
+Patching output file 154/199
+Patching output file 155/199
+Patching output file 156/199
+Patching output file 157/199
+Patching output file 158/199
+Patching output file 159/199
+Patching output file 160/199
+Patching output file 161/199
+Patching output file 162/199
+Patching output file 163/199
+Patching output file 164/199
+Patching output file 165/199
+Patching output file 166/199
+Patching output file 167/199
+Patching output file 168/199
+Patching output file 169/199
+Patching output file 170/199
+Patching output file 171/199
+Patching output file 172/199
+Patching output file 173/199
+Patching output file 174/199
+Patching output file 175/199
+Patching output file 176/199
+Patching output file 177/199
+Patching output file 178/199
+Patching output file 179/199
+Patching output file 180/199
+Patching output file 181/199
+Patching output file 182/199
+Patching output file 183/199
+Patching output file 184/199
+Patching output file 185/199
+Patching output file 186/199
+Patching output file 187/199
+Patching output file 188/199
+Patching output file 189/199
+Patching output file 190/199
+Patching output file 191/199
+Patching output file 192/199
+Patching output file 193/199
+Patching output file 194/199
+Patching output file 195/199
+Patching output file 196/199
+Patching output file 197/199
+Patching output file 198/199
+Patching output file 199/199
+lookup cache used 14751/65536 hits=223818 misses=15002
+finished...
